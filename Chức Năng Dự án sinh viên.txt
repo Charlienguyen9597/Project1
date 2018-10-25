@@ -1,0 +1,9 @@
+Yêu c?u d? án qu?n lý Sinh Viên
+1.Ti?n hành thêm Sinh viên t? form
+2.Tính di?m trung bình
+3.Hi?n th? b?ng danh sách sinh viên
+4.Xóa sinh viên
+5.S? d?ng thu?t toán d?m dém xem có bao nhiêu sinh viên y?u
+6.Li?t kê danh sách sinh viên y?u
+7.Tìm và hi?n th? sinh viên có di?m trung bình cao nh?t
+8.Validation: ki?m tra thông tin ngu?i dùng nh?p vào
